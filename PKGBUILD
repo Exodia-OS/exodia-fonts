@@ -4,7 +4,7 @@
 
 pkgname=exodia-fonts
 pkgver=1.0
-pkgrel=2
+pkgrel=3
 pkgdesc="Fonts For Exodia OS"
 arch=('any')
 url="https://github.com/Exodia-OS/exodia-fonts.git"
