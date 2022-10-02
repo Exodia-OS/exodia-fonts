@@ -4,7 +4,7 @@
 
 pkgname=exodia-fonts
 pkgver=1.0
-pkgrel=6
+pkgrel=7
 pkgdesc="Fonts For Exodia OS"
 arch=('any')
 url="https://github.com/Exodia-OS/exodia-fonts.git"
@@ -19,6 +19,6 @@ prepare() {
 
 package() {
 
-	(find * -type f -exec install -Dm 644 "{}" "$pkgdir/usr/share/fonts/{}" \;)
+	(find * -type f -exec install -Dm 644 "{}" "$pkgdir/usr/share/fonts/exodia/{}" \;)
 
 }
