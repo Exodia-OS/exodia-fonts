@@ -4,12 +4,12 @@
 
 pkgname=exodia-fonts
 pkgver=1.0
-pkgrel=7
+pkgrel=8
 pkgdesc="Fonts For Exodia OS"
 arch=('any')
 url="https://github.com/Exodia-OS/exodia-fonts.git"
 license=('GPL3')
-groups=("exodia-os-skeleton")
+groups=("exodia-skeleton")
 
 prepare() {
 
