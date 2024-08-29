@@ -3,7 +3,7 @@
 #
 
 pkgname=exodia-fonts
-pkgver=1.2
+pkgver=1.3
 pkgrel=9
 pkgdesc="Fonts For Exodia OS"
 arch=('any')
